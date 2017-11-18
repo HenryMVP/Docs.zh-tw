@@ -34,7 +34,7 @@ ms.lasthandoff: 09/12/2017
     
 4. 執行應用程式。
 
-    使用以下命令來執行應用程式：
+    使用以下CLI命令來執行應用程式：
 
     ```terminal
     cd aspnetcoreapp
